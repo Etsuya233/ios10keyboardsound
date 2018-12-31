@@ -63,10 +63,6 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/media/audio/ui/KeypressDelete.ogg
-/system/media/audio/ui/KeypressReturn.ogg
-/system/media/audio/ui/KeypressSpacebar.ogg
-/system/media/audio/ui/KeypressStandard.ogg
 "
 
 ##########################################################################################
