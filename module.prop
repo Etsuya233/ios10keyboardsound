@@ -1,0 +1,7 @@
+id=ios10keyboardsound
+name=Change To iOS10 Keyboard's Sounds
+version=v1
+versionCode=1
+author=Etsuya
+description=This module can turn default keyboard's sounds into iOS10 keyboard's sounds systemlessly.
+minMagisk=17000
